@@ -7,3 +7,4 @@ $font-family-sans-serif: "Source Sans Pro", -apple-system, "Segoe UI", Helvetica
 .affil-logo { height: 5em; width: auto; margin: 0.4em 0.3em 0; }
 .quarto-title-block p:has(.affil-logo), .about-entity p:has(.affil-logo) { white-space: nowrap; }
 .quarto-about-trestles .about-entity h1.title { font-size: 1.2rem; white-space: nowrap; }
+.affil-logo[alt="University of St Andrews"] { height: 6em; }
