@@ -11,7 +11,7 @@ about:
       href: mailto:eiren.jacobson@st-andrews.ac.uk
     - icon: file-earmark-person
       text: CV
-      href: Jacobson_Resume_June2026.pdf
+      href: Jacobson_Resume_Oct2026.pdf
     - icon: github
       text: GitHub
       href: https://github.com/eirenjacobson/
