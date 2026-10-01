@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "*.pdf"
+    - publications/
     - CNAME
     - robots.txt
     - documents/
