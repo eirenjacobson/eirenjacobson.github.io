@@ -1,5 +1,11 @@
 ---
-title: "Eiren Kate Jacobson"
+title: "Eiren Kate Jacobson, Ph.D."
+subtitle: |
+  Research Fellow\
+  [Centre for Research into Ecological and Environmental Modelling (CREEM)](https://www.creem.st-andrews.ac.uk/)\
+  [University of St Andrews](https://www.st-andrews.ac.uk/)
+
+  [![](images/creem_logo.png){.affil-logo fig-alt="CREEM"}](https://www.creem.st-andrews.ac.uk/) [![](images/standrews_logo.png){.affil-logo fig-alt="University of St Andrews"}](https://www.st-andrews.ac.uk/)
 pagetitle: "Eiren Kate Jacobson"
 image: images/Jacobson_Headshot.jpg
 about:
