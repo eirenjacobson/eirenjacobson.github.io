@@ -8,7 +8,7 @@ project:
     - images/
 
 website:
-  title: "Eiren Jacobson"
+  title: "Eiren Kate Jacobson, Ph.D."
   favicon: images/favicons/favicon.ico
   navbar:
     right:
