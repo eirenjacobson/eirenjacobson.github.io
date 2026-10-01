@@ -35,8 +35,6 @@ I work within [CREEM](https://www.creem.st-andrews.ac.uk/), where I use my inter
 
 I specialize in research that has direct applications to marine mammal conservation and management. My particular areas of statistical contribution include maximizing the utility of existing, imperfect datasets through innovative modelling approaches and developing statistical methods to utilize novel data sources generated through technological advances.
 
-You can watch a seminar on my research [here](https://www.youtube.com/watch?v=M-FSTCjX-5s).
-
 I am committed to building an inclusive research culture and actively work to increase equity, diversity, and inclusion within and beyond the University.
 
 I live in Scotland, where I enjoy walking, yoga, reading, crafts, board games, and spending time with my dogs [Juniper and Phoenix](images/Doggos2025.jpg), cat [Fern](images/Fern.png), and partner [Dave](images/Eiren&Dave.jpg).
