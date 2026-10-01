@@ -1,0 +1,11 @@
+---
+title: "Publications"
+bibliography: publications.bib
+csl: pubs.csl
+nocite: "@*"
+filters:
+  - pdf-label.lua
+---
+
+::: {#refs}
+:::

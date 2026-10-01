@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources:
+    - "*.pdf"
+    - CNAME
+    - robots.txt
+    - documents/
+    - images/
+
+website:
+  title: "Eiren Jacobson"
+  favicon: images/favicons/favicon.ico
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: Jacobson_Resume_June2026.pdf
+        text: CV
+  page-footer: "© 2026 Eiren Jacobson"
+
+format:
+  html:
+    theme: [flatly, custom.scss]
+    toc: false

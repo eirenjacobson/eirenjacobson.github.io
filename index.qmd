@@ -1,0 +1,36 @@
+---
+title: "Eiren Kate Jacobson"
+pagetitle: "Eiren Kate Jacobson"
+image: images/Jacobson_Headshot.jpg
+about:
+  template: trestles
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:eiren.jacobson@st-andrews.ac.uk
+    - icon: file-earmark-person
+      text: CV
+      href: Jacobson_Resume_June2026.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/eirenjacobson/
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-0147-8367
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=c1SA3lAAAAAJ&hl=en
+---
+
+I am a quantitative ecologist specializing in applied, collaborative, and interdisciplinary research on marine mammal populations.
+
+I work within [CREEM](https://www.creem.st-andrews.ac.uk/), where I use my interdisciplinary skills and experience in biology, ecology, oceanography, and statistics to develop and apply quantitative methods for assessing the population size, status, trend, and impacts of anthropogenic activities on cetaceans (beluga whales, beaked whales, harbour porpoise) and pinnipeds (harbour seals, grey seals, walrus).
+
+I specialize in research that has direct applications to marine mammal conservation and management. My particular areas of statistical contribution include maximizing the utility of existing, imperfect datasets through innovative modelling approaches and developing statistical methods to utilize novel data sources generated through technological advances.
+
+You can watch a seminar on my research [here](https://www.youtube.com/watch?v=M-FSTCjX-5s).
+
+I am committed to building an inclusive research culture and actively work to increase equity, diversity, and inclusion within and beyond the University.
+
+I live in Scotland, where I enjoy walking, yoga, reading, crafts, board games, and spending time with my dogs [Juniper and Phoenix](images/Doggos2025.jpg), cat [Fern](images/Fern.png), and partner [Dave](images/Eiren&Dave.jpg).
