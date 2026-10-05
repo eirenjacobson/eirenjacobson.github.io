@@ -1,7 +1,7 @@
 ---
 title: "Eiren Kate Jacobson, Ph.D."
 subtitle: |
-  Research Fellow\
+  Senior Research Fellow\
   [Centre for Research into Ecological and Environmental Modelling (CREEM)](https://www.creem.st-andrews.ac.uk/)\
   [University of St Andrews](https://www.st-andrews.ac.uk/)
 
